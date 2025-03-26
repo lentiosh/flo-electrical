@@ -29,7 +29,7 @@ const Navbar = () => {
         <div className="flex items-center justify-between">
           <a href="#" className="flex items-center space-x-2">
             <Zap className="h-8 w-8 text-electric-600" />
-            <span className="text-xl font-bold tracking-tight">Flo Electrical</span>
+            <span className="text-xl font-bold tracking-tight">FRANSSON ELECTRICS</span>
           </a>
 
           {/* Desktop Navigation */}

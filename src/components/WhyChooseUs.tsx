@@ -6,18 +6,13 @@ const WhyChooseUs = () => {
   const reasons = [
     {
       icon: <CheckCircle className="h-10 w-10 text-electric-500" />,
-      title: "Over 30 Years Experience",
+      title: "Over 10 Years Experience",
       description: "Benefit from our extensive knowledge and expertise in all electrical installations and repairs."
     },
     {
       icon: <Shield className="h-10 w-10 text-electric-500" />,
       title: "NICEIC Registered",
       description: "All our work is guaranteed to comply with British Standards and Building Regulations."
-    },
-    {
-      icon: <Lightbulb className="h-10 w-10 text-electric-500" />,
-      title: "£2 Million Public Liability Insurance",
-      description: "Complete peace of mind with comprehensive insurance coverage for all our services."
     },
     {
       icon: <Clock className="h-10 w-10 text-electric-500" />,
@@ -47,7 +42,7 @@ const WhyChooseUs = () => {
           </div>
           
           <h2 className="text-3xl md:text-4xl font-bold mb-6 text-white">
-            Why Choose <span className="text-electric-500">Flo Electrical</span>
+            Why Choose <span className="text-electric-500">FRANSSON ELECTRICS</span>
           </h2>
           <p className="text-lg text-gray-300">
             We prioritize safety, quality, and customer satisfaction with every electrical project we undertake.
